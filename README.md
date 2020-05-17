@@ -24,11 +24,12 @@ GCP - DataProc Cluster
     - Hadoop 2.9
     - Spark 2.4
 
-## Dataframe Works 
-1. Spark
-2. Haddop
+## Big Data Technologies 
+1. Apache Spark
+2. Hadoop - HDFS
+3. Apache Spark MLib
 
-## Big Data Concepts 
+## Data Science Concepts 
 1. Linear Regression
 2. Hypothesis Testing
 3. Stratified Sampling
