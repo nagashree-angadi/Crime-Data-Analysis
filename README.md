@@ -27,7 +27,6 @@ GCP - DataProc Cluster
 ## Big Data Technologies 
 1. Apache Spark
 2. Hadoop - HDFS
-3. Apache Spark MLib
 
 ## Data Science Concepts 
 1. Multivariate Linear Regression
