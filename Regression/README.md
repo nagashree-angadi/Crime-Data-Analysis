@@ -13,5 +13,6 @@
     
 ## Hypothesis Testing
     1. The level of significance considered in our analysis is 0.05. 
-    2. The null hypthesis states that demographic factor(poverty rate, uneployement rate, racial diversity and income diversity) don't effect the crime count.
-    3. The null hypothesis is rejected if the pvalue is less than 0.05. 
+    2. The null hypthesis states that demographic factor don't effect the crime count.
+    3. The null hypothesis is rejected if the pvalue is less than 0.05.
+    4. The null hypothesis is not rejected if the pvalue is greater than 0.05.
