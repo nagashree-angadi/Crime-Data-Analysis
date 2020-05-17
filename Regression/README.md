@@ -5,8 +5,8 @@
 
 ### Borough Level Regression - borough_level_regression.iypnb
     1. Analyzed the relationship between crime count and following demographic factors at Borough level.
-    2. Analyzed the relationship between crime count and following demographic factors controlled by Population at Borough level,
+    2. Analyzed the relationship between crime count and following demographic factors controlled by Population at Borough level.
 
 ### Sub Borough Level Regression - sub_borough_level_regression.iypb
-    1. Analyzed the relationship between crime count and following demographic factors at Sub Borough level,
-    2. Analyzed the relationship between crime count and the demographic factors controlled by Population at Sub Borough level,
+    1. Analyzed the relationship between crime count and following demographic factors at Sub Borough level.
+    2. Analyzed the relationship between crime count and the demographic factors controlled by Population at Sub Borough level.
