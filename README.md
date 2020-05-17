@@ -30,6 +30,6 @@ GCP - DataProc Cluster
 3. Apache Spark MLib
 
 ## Data Science Concepts 
-1. Linear Regression
+1. Multivariate Linear Regression
 2. Hypothesis Testing
 3. Stratified Sampling
