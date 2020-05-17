@@ -6,6 +6,7 @@ We performed 3 levels of Analysis:
  - Crime Type vs Years.
  - Crime Type vs Month of Year
  - Crime Type vs Day of Month
+- Crime Type vs Hour of Day
 
 2. Spatial
  - Crime Type Distribution on Map
